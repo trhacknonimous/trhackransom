@@ -1,6 +1,6 @@
 # Vaim-RamSom
-<img src="https://img.shields.io/badge/Vaim--RamSom-Android%20Ransomware-brightgreen"><br>
-<img title="Vaim-RamSom" src="https://img.shields.io/badge/version-1.0-red"><br>
+<img src="https://b.top4top.io/p_210130c5s0.gif"><br>
+<img title="TrhackRamSom" src="https://img.shields.io/badge/version-1.0-red"><br>
 <img src="src/Vaim-RamSom.png"><br>
 
 
@@ -26,9 +26,9 @@
  
 > `apt update && apt upgrade`
  
-> `git clone https://github.com/VaimpierOfficial/Vaim-RamSom`
+> `git clone https://github.com/trhacknon/trhackransom`
  
-> `cd Vaim-RamSom`  
+> `cd trhackransom`  
  
 > `bash setup.sh`
 
@@ -71,9 +71,9 @@
 <img src="src/app.png"></img>
 
 ### Support Me On
-Facebook [@Vaimpier_Ritk](https://www.facebook.com/vaimpier.ritik.143)<br>
-Instagram [@Vaimpier_Ritik](https://instagram.com/vaimpier_ritik)<br>
-Youtube [@Vaimpier_Ritik](https://www.youtube.com/channel/UCDWhaLh7OIKzH4Bk952l7Iw)
+Facebook [@Vaimpier_Ritk](https://www.facebook.com/)<br>
+Instagram [@Vaimpier_Ritik](https://instagram.com/)<br>
+Youtube [@Vaimpier_Ritik](https://www.youtube.com/channel/)
 
 
 ### For Video Tutorial
