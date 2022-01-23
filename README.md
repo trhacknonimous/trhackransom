@@ -1,7 +1,7 @@
 # Trhacknon-RamSom
-<img src="https://img.shields.io/badge/Va--RamSom-Android%20Ransomware-brightgreen"><br>
+<img src="https://img.shields.io/badge/Trhacknon--RamSom-Android%20Ransomware-brightgreen"><br>
 <img src="https://b.top4top.io/p_210130c5s0.gif"><br>
-<img title="TrhackRamSom" src="https://img.shields.io/badge/version-1.0-red"><br>
+<img title="TrhackRamSom" src="https://img.shields.io/badge/version-2.0-red"><br>
 <img src="src/Vaim-RamSom.png"><br>
 
 
