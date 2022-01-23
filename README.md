@@ -71,9 +71,9 @@
 <img src="src/app.png"></img>
 
 ### Support Me On
-Facebook [@Vaimpier_Ritk](https://www.facebook.com/)<br>
-Instagram [@Vaimpier_Ritik](https://instagram.com/)<br>
-Youtube [@Vaimpier_Ritik](https://www.youtube.com/channel/)
+Facebook [@Trhacknon](https://www.facebook.com/)<br>
+Instagram [@Trhacknon](https://instagram.com/)<br>
+Youtube [@Trhacknon](https://www.youtube.com/channel/)
 
 
 ### For Video Tutorial
