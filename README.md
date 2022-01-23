@@ -1,15 +1,14 @@
-# Vaim-RamSom
+# Trhacknon-RamSom
 <img src="https://b.top4top.io/p_210130c5s0.gif"><br>
 <img title="TrhackRamSom" src="https://img.shields.io/badge/version-1.0-red"><br>
 <img src="src/Vaim-RamSom.png"><br>
 
 
-- What is Vaim-RamSom ?
+- What is Trhacknon-RamSom ?
 > This is simple android ransomware virus.
 > Many times you just want to annoy or play a prank on your friends.
 > If you find yourself in that situation then this Tool is the perfect tool for you!
-> this tool made by @vaimpier_ritik
-
+> this tool made by @Trhacknon
 * `FUD.`
 
 * `Supports newest Android also.`
