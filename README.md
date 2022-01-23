@@ -62,7 +62,7 @@
   - Pillow
 
 ### Tools overview
-<img src="src/main.png"></img>
+<img src="main.png"></img>
 
 ### Link overview
 <img src="src/link.png"></img><img src="src/link2.jpg"></img>
